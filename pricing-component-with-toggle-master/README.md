@@ -2,7 +2,7 @@
 
 ![Design preview for the Pricing component with toggle coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Welcome! 👋 EVERYONE
 
 Thanks for checking out this front-end coding challenge.
 
